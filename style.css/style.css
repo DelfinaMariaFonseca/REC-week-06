@@ -1,0 +1,48 @@
+style {
+  width 80%
+  font: 1em inherits ;
+  column-count: 2;
+  width: 100%
+  }
+
+}
+.column1 {
+  width: 20%
+  background-color white;
+  text-align: :left;
+  padding: 2px;
+}
+
+      body {
+          background-color: white;
+        }
+        
+        h1 {
+          color:black;
+          text-align: center;
+        }
+        
+        p {
+          font-family: inherit;
+          font-size: 20px;
+        }
+      .button
+          a:link, a:visited {
+              background-color: #f44336;
+              color: white;
+              padding: 14px 25px;
+              text-align: center;
+              text-decoration: none;
+              display: inline-block;
+            }
+            
+            a:hover, a:active {
+              background-color: red;
+            }
+     
+
+.column2 {
+  column-width: 15%;
+  text-align: right;
+  padding: 2px;
+}
